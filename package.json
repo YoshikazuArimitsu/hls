@@ -34,6 +34,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "http://YoshikazuArimitsu.github.io/hls"
-
+  "homepage": "http://YoshikazuArimitsu.github.io/hls",
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  }
 }
